@@ -1,2 +1,0 @@
-# newadventure
-Jekyll this time.
